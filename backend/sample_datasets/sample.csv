@@ -1,5 +1,5 @@
-Name,Age,Gender,Score
-John,25,M,80
-Jane,22,F,85
-Tom,28,M,
-Lucy,21,F,90
+Name,Age,Gender,Score,Pass
+John,25,M,80,True
+Jane,22,F,85,True
+Tom,28,M,60,False
+Lucy,21,F,90,True
